@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my GitHub page
 
+I'm Ranie, a Web developer working on becoming a full-stack developer.
+I work with HTML/CSS, JS, React and I'm currently learning Node.JS, I also have some old experience with Python and had done a few University classes with Java and C++.
 <!--
 **RanSW999/RanSW999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
